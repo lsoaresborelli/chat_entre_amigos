@@ -28,7 +28,7 @@ Data	Evento
 
 25/11/2015	Liberação para produção
 
-4.	COMPATIBILIDADE
+4. 	COMPATIBILIDADE
 
 Requisitos
 
@@ -40,10 +40,10 @@ Linguagem de programação:	PHP
 
 Servidor Web:	Apache – PHP versão 5.4
 
-5.	PROCEDIMENTO E ALTERAÇAO DE CONFIGURAÇÃO DO AMBIENTE
+5. 	PROCEDIMENTO E ALTERAÇAO DE CONFIGURAÇÃO DO AMBIENTE
 
 Nenhuma configuração é necessária. Basta apenas iniciar primeiramente o Servidor, através da url http://URL_DO_SERVIDOR/servidor.php. Após inicalizado, é possível iniciar até 100 clientes (independentes de onde estiverem) através da url http://URL_DO_SERVIDOR/cliente.php.
 
-6.	ATIVIDADES REALIZADAS NO PERÍODO
+6. 	ATIVIDADES REALIZADAS NO PERÍODO
 
 Nessa liberação foi contemplado o Chat com possibilidade de até 100 pessoas participarem de um chat GLOBAL/ÚNICO, independente de onde as pessoas estiverem.

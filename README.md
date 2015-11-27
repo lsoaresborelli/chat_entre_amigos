@@ -1,5 +1,10 @@
 # chat_entre_amigos
 
+#TRABALHO DO 4º BIMESTRE - SISTEMAS DISTRIBUIDOS
+#517615 - GABRIEL SAGIORATTO JACOB
+#515833 - LUCIANO SOARES BORELLI
+#519324 - PEDRO HENRIQUE PARRONCHI LOPES
+
 NOTA DE LIBERAÇÃO: CHAT ENTRE AMIGOS
 
 INTRODUÇÃO: Este documento provê uma visão geral da versão do aplicativo Projeto CHAT ENTRE AMIGOS que está sendo liberada. Aqui descreveremos as funcionalidades do aplicativo, bem como seus problemas e limitações conhecidos. Por último são descritas as demandas e os problemas que foram resolvidos para liberação da versão atual.
